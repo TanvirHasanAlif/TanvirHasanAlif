@@ -1,0 +1,35 @@
+  @import url('https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;700;800;900&family=Poppins:wght@300;400;500;600;700;800;900&family=Urbanist:wght@300;400;500;600;700;800;900&display=swap');
+  @font-face {
+    font-family: "Tanvirfont";
+    src: url(font\style/HeavenlyChristmas-PersonalUse);
+  }
+  @font-face {
+    font-family: "mimfont";
+    src: url(font\style/BeautifulBarbiesBe.otf);
+  }
+
+/*font weight:-The 'font-weight' property defines the thickness of text characters,ranging from '100'(thin) to '900'(bold). */
+/* Font style:-the'font-style' property allows you to apply styles like italic to text. */
+/* Common values include 'normal' (default), italic and oblique */
+/* font Variant:-The 'font-variant' property is used to control the appearance of text characters by modifying their variant forms. */
+/* Value :normal,Small-caps */
+h1{
+  /*1*/ font-family: 'urbanist',sans-serif,'Times New Roman', Times , "mimfont";
+   /*2*/ font-size: 54px;
+  /*3*/ font-weight: 900;
+  /*4*/  font-style: italic;
+  /*5*/  font-variant: small-caps;
+  
+
+
+}
+p{
+  font-family: 'urbanist',sans-serif,'Times New Roman', Times  "Tanvirfont";
+  font-size: 20px;
+  font-weight: 900;
+  font-style: italic;
+  width: 50%;
+  
+  
+
+}

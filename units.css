@@ -1,0 +1,7 @@
+/* For percentages 100% =16px */
+/*  1px  = 6.25% */
+/* 1em = 16px  or 1 rem =100% */
+/* 1rem= 10px */
+/* em depend in her parent exmple: parent( ul){ font-size: 10px} tahola  children(li) em(54*16 = parent vasi hole) kome jaba  tahole  1em=10px nao asta pare*/
+/* html font-size px,rem,em etc must be use it is very important */
+

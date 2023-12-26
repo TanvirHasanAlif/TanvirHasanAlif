@@ -1,0 +1,36 @@
+/* pure color start */
+.red{
+    color: red;
+    color: #f00;
+    color:Rgb(255,0,0);
+} 
+.green{
+    color: green;
+    color: #00ff00;
+    color:Rgb(0,255,0);
+}  
+ .blue{
+    color:blue;
+    color:#0000ff;
+    color: rgb(0,0,255);
+} 
+.c-magenta,.c-pink{
+     color:magenta;
+    color: #ff00ff;
+    color: rgb(255,0,255); 
+}
+ .c-lightblue,.c-cyan{
+    color:cyan ;
+    color: #00ffff;
+    color: rgb(0,255,255);
+} 
+ .c-yellow{
+    color:yellow;
+    color:#ffff00;
+    color:rgb(255,255,0) ;
+}   
+/* pure color end */
+
+/* alpha color start */
+
+/* alpha color end */
